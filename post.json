@@ -1,0 +1,24 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Bibek Sodari",
+    "role": "Computer Engineering Student",
+    "skills": ["Python", "Java", "Data Science"],
+    "location": "Nepal"
+  },
+  "projects": [
+    {
+      "project_id": 101,
+      "title": "Portfolio Website",
+      "status": "completed",
+      "year": 2025
+    },
+    {
+      "project_id": 102,
+      "title": "Data Analysis App",
+      "status": "in-progress",
+      "year": 2026
+    }
+  ],
+  "active": true
+}
