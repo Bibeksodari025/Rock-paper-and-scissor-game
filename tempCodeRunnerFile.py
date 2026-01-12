@@ -1,6 +1,0 @@
-Name = input("Enter your name:")
-# Age = input("Enter your age:")
-# faculty = input("Enter your faculty:")
-# print("The name is :", Name)
-# print("The age is:",Age)
-# print("The faculty is :", faculty)
